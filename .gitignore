@@ -1,0 +1,9 @@
+/coverage
+/es6
+/lib
+/node_modules
+/umd
+/dist
+npm-debug.log
+/.idea
+BrowserProcessLog.txt
