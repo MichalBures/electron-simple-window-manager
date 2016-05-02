@@ -149,3 +149,7 @@ let config = {
 		* width
 		* height
 	* **animate**: true/false
+
+## License
+
+MIT
