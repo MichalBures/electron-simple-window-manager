@@ -1,6 +1,6 @@
 # electron-simple-window-manager
 
-Easily manage (open, hide, move, ...) you [Electron](https://github.com/electron/electron) windows.
+Easily manage (open, hide, move, ...) your [Electron](https://github.com/electron/electron) windows.
 
 
 ## Getting Started
@@ -60,7 +60,7 @@ import {SimpleWindowManagerSaga} from 'electron-simple-window-manager'
 ```
 *If you are not familiar with `redux-saga` go [see its documentation](https://github.com/yelouafi/redux-saga#mainjs)*
 
-Now that our helper saga is up and running you can `dispatch` on of the available actions and the saga will process it.
+Now that our helper saga is up and running you can `dispatch` one of the available actions and the saga will process it.
 
 ```javascript
 import {openWindow} from 'electron-simple-window-manager/actions'
