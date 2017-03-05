@@ -1,6 +1,6 @@
 {
   "name": "electron-simple-window-manager",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Manage multiple Electron windows",
   "main": "lib/index.js",
   "files": [
@@ -27,6 +27,7 @@
     "cross-env": "^3.2.3",
     "expect": "^1.20.2",
     "mocha": "^3.2.0",
+    "redux": "^3.6.0",
     "redux-saga": "^0.14.3",
     "rimraf": "^2.6.1",
     "typescript": "^2.2.1"
