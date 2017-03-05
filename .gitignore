@@ -6,4 +6,5 @@
 /dist
 npm-debug.log
 /.idea
-BrowserProcessLog.txt
+/.history
+/.vscode
